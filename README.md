@@ -80,4 +80,4 @@
 
 БЕКЕНДЫ
 
-
+ССЫЛКА НА СХЕМУ: https://github.com/sp-prog/architecture-sprint-1/blob/sprint_1/arch_template_task2_1.drawio
